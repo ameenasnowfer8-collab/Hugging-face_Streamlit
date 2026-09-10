@@ -42,7 +42,7 @@ AI_Question_Answer/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Question-Answer.git
+git clone https://github.com/ameenasnowfer8-collab/Hugging-face_Streamlit.git
 ```
 
 ### 2. Open the Project Folder
