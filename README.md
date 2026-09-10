@@ -6,6 +6,9 @@ Smart AI Question Answer is a simple AI-powered web application built using Pyth
 
 The application uses Hugging Face Inference API and the Google Gemma model to generate answers.
 
+## Live Link:
+[https://hugging-faceapp-a69ahsymg3kdfsbucfvlm2.streamlit.app/]
+
 ## Features
 
 * Simple and user-friendly interface
