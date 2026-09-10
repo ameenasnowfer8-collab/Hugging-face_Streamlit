@@ -27,7 +27,7 @@ The application uses Hugging Face Inference API and the Google Gemma model to ge
 ## Project Structure
 
 ```text
-AI_Question_Answer/
+Hugging face/
 │
 ├── app.py
 ├── requirements.txt
@@ -48,7 +48,7 @@ git clone https://github.com/ameenasnowfer8-collab/Hugging-face_Streamlit.git
 ### 2. Open the Project Folder
 
 ```bash
-cd AI-Question-Answer
+cd Hugging face
 ```
 
 ### 3. Install the Required Libraries
